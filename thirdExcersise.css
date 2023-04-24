@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    background: lightgreen;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+h1{
+    color: green
+}
+h2{
+    color:darkolivegreen
+}
+button {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    margin-top: 7px;
+    margin-top: 7px;
+    margin-left: 3px;
+    margin-right: 3px;
+    background-color: gold;
+    border-color: goldenrod;
+}
+#d20{
+    background-color: orange;
+}
+#resetEl {
+    background-color: yellow;
+    border-color: red;
+}
